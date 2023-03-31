@@ -1,6 +1,6 @@
 Name:		texlive-yazd-thesis
 Version:	61719
-Release:	1
+Release:	2
 Summary:	A template for the Yazd University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yazd-thesis
