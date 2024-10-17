@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	A template for the Yazd University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/yazd-thesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/yazd-thesis
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yazd-thesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/yazd-thesis.doc.r%{version}.tar.xz
